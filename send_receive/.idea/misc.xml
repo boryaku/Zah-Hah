@@ -56,10 +56,6 @@
   <component name="DependencyValidationManager">
     <option name="SKIP_IMPORT_STATEMENTS" value="false" />
   </component>
-  <component name="Git.Settings">
-    <option name="GIT_EXECUTABLE" value="git" />
-    <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
-  </component>
   <component name="IdProvider" IDEtalkID="475DB971D7FD9DE2339CD042AA1425B0" />
   <component name="JavadocGenerationManager">
     <option name="OUTPUT_DIRECTORY" />

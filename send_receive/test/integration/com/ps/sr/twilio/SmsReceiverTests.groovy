@@ -1,4 +1,4 @@
-package com.ps.sr.service
+package com.ps.sr.twilio
 
 import com.ps.sr.model.Subscription
 import com.ps.sr.model.Level
