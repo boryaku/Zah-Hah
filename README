@@ -1,0 +1,6 @@
+The send_receive module is the main logic of the system it maintains the programs and the interactions between twilio
+
+pubnub-group-chat adds the group chat features for members of a program
+
+twilio-speech-recognition adds speech capabilities to the system and allows interactions with the Twilio transcription service
+it relies on the send_receive action urls to facilitate the logical interactions with Twilio.
