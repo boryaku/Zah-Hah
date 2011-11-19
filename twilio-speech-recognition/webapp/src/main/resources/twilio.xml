@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This is TwiML, it's a simple example to call a client... -->
+<Response>
+    <Dial>
+        <Client>${USER_NAME}</Client>
+    </Dial>
+</Response>
+
+<!--
+Default TwiML
+
+<Response>
+    <Say>Welcome to your new Twilio Account.</Say>
+    <Say voice="woman">Let us know if we can help you in any way during your development.</Say>
+</Response>
+
+-->
